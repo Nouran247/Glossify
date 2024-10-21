@@ -97,7 +97,55 @@ input:focus {
   outline: none;
 }
 
+.custom-radio {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
 
+/* Custom radio button */
+.custom-radio + span {
+  position: relative;
+  padding-left: 25px;
+  cursor: pointer;
+}
+
+.custom-radio + span::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 18px;
+  height: 18px;
+  border: 2px solid gray;
+  border-radius: 50%;
+  background-color: white;
+}
+
+/* Custom radio button when checked */
+.custom-radio:checked + span::before {
+  border-color: #db2777;
+  background-color: #db2777;
+}
+
+/* Inner dot for checked state */
+.custom-radio:checked + span::after {
+  content: "";
+  position: absolute;
+  left: 4px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 10px;
+  height: 10px;
+  background-color: white;
+  border-radius: 50%;
+}
+
+/* Red asterisk for required fields */
+.text-red-500 {
+  color: #db2777; /* Or any shade of red you want */
+}
 
 
 

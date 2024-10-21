@@ -22,13 +22,32 @@ html {
     color: white;
 }
 
+/* Banner  */
+.offers-banner {
+    background-color: #fec2e9; 
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-family: "SUSE", sans-serif;
+    /* font-family: "Patrick Hand", cursive; */
+    font-weight: bold;
+    position: relative;
+    overflow: hidden; 
+}
+
+.offers-banner p {
+    display: block;
+    font-size: 16px;
+
+}
+
 /* OPENING SECTION*/
 .bodyy {
     background: 
-        linear-gradient(to bottom right, #ee9cd1d7, rgba(255, 255, 255, 0.62)), /* Gradient layer */
-        url('imgs/bg.jfif'); /* Background image layer */
-    background-size: cover; /* Make the image cover the entire container */
-    background-position: center; /* Center the image */
+        linear-gradient(to bottom right, #ee9cd1d7, rgba(255, 255, 255, 0.62)),
+        url('imgs/bg.jfif'); 
+    background-size: cover; 
+    background-position: center; 
     height: 100vh;
     color: white;
 }
@@ -43,8 +62,8 @@ header {
     top: 0;          
     width: 100%;      
     z-index: 1000; 
+    margin: 30px;
 }
-
 
 
 nav ul {

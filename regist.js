@@ -17,6 +17,6 @@ document.getElementById('loginform').addEventListener('submit', function (event)
         // إعادة التوجيه إلى صفحة أخرى إذا كانت الشروط صحيحة
         window.location.href = "index.html"; // استبدل "nti.html" بالصفحة المطلوبة
     } else {
-        alert("يرجى التحقق من البريد الإلكتروني اوكلمة المرور.");
+        alert("Please check your email and password");
     }
 });

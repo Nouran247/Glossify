@@ -6,7 +6,7 @@ Glossify is an e-commerce website dedicated to skincare and haircare products, p
 [Glossify Website](https://nouran247.github.io/Glossify/index.html)
 
 ## LinkedIn Post
-[Learn more about Glossify on LinkedIn]([https://www.linkedin.com/posts/nouran-glossify](https://www.linkedin.com/posts/nouran-emad-4a6519299_digitalegyptpioneers-depi-graduationabrproject-activity-7259308326876827651-2fAE?utm_source=share&utm_medium=member_android)
+[Learn more about Glossify on LinkedIn]([https://www.linkedin.com/posts/nouran-glossify](https://www.linkedin.com/posts/nouran-emad-4a6519299_digitalegyptpioneers-depi-graduationabrproject-activity-7259308326876827651-2fAE?utm_source=share&utm_medium=member_android))
 
 ---
 

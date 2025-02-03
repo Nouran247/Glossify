@@ -36,20 +36,6 @@ Glossify is an e-commerce website dedicated to skincare and haircare products, p
 
 ---
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Nouran247/Glossify.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Glossify
-   ```
-3. Open `index.html` in your browser.
-
----
-
 ## Usage
 
 1. Browse through the product catalog.

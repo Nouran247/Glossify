@@ -5,6 +5,9 @@ Glossify is an e-commerce website dedicated to skincare and haircare products, p
 ## Live Demo
 [Glossify Website](https://nouran247.github.io/Glossify/index.html)
 
+## LinkedIn Post
+[Learn more about Glossify on LinkedIn]([https://www.linkedin.com/posts/nouran-glossify](https://www.linkedin.com/posts/nouran-emad-4a6519299_digitalegyptpioneers-depi-graduationabrproject-activity-7259308326876827651-2fAE?utm_source=share&utm_medium=member_android)
+
 ---
 
 ## Features
@@ -45,19 +48,6 @@ Glossify is an e-commerce website dedicated to skincare and haircare products, p
 
 ---
 
-## Screenshots
-
-### Home Page
-![Home Page](./screenshots/homepage.png)
-
-### Cart Page
-![Cart Page](./screenshots/cartpage.png)
-
-### Checkout Page
-![Checkout Page](./screenshots/checkoutpage.png)
-
----
-
 ## Future Enhancements
 
 - Implement a backend for user authentication and order management.
@@ -66,30 +56,9 @@ Glossify is an e-commerce website dedicated to skincare and haircare products, p
 
 ---
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your feature description"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request.
-
----
-
 ## Contact
 
 For inquiries or feedback, feel free to reach out:
 
-- **Email**: nouranemad.official@gmail.com
+- **Email**: nour24an7@gmail.com
 - **GitHub**: [Nouran247](https://github.com/Nouran247)
